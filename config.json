@@ -1,0 +1,31 @@
+{
+    "privatekey": "", 
+    "amount_to_swap": 0.05,
+    "slippage": 50,
+    "priority_fee": 0.01,
+    "accounts": [
+        {
+            "username": "username",
+            "email": "email@gmail.com",
+            "password": "password!"
+        },
+        {
+            "username": "username",
+            "email": "email@gmail.com",
+            "password": "password!"
+        },
+        {
+            "username": "username",
+            "email": "email@gmail.com",
+            "password": "password!"
+        }
+        
+    ],
+    "user_id": "",
+    "rate_limit_requests": 167,
+    "rate_limit_interval": 900,
+    "proxy_url": "none", 
+    "capsolver_api_key": "none"  ,
+	"discord": "https://discord.com/api/webhooks/"
+}
+
