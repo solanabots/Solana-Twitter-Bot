@@ -1,0 +1,6 @@
+aiohttp==3.8.4
+asyncio==3.4.3
+requests==2.26.0
+twikit==2.1.2
+capsolver==1.0.7
+ttkbootstrap==1.10.1
