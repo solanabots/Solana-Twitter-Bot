@@ -1,2 +1,0 @@
-# Solana Twitter Bot
- 
